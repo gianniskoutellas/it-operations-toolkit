@@ -1,1 +1,3 @@
-
+date,issue,location,priority,vendor,action_taken,status,cost_eur,closed_date
+2026-11-26,Printer paper jam,Office A,Medium,Vendor C,Engineer visit requested,Open,,
+2026-11-26,Air-conditioning noise,Meeting room,Low,Vendor D,Maintenance request submitted,Open,,

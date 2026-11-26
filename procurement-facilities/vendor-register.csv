@@ -1,1 +1,4 @@
-
+vendor_id,vendor_name,service,contact_name,email,phone,contract_start,contract_end,escalation_contact
+VEN-001,IT Support Provider,Managed IT support,Contact A,support@example.com,+30 210 000 0000,2026-01-01,2026-12-31,Account manager
+VEN-002,Internet Provider,Business internet,Contact B,support@example.com,+30 210 000 0001,2026-01-01,2027-01-01,Technical support
+VEN-003,Office Cleaning,Cleaning services,Contact C,contact@example.com,+30 210 000 0002,2026-01-01,2026-12-31,Operations manager

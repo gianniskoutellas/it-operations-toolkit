@@ -1,1 +1,4 @@
-
+asset_id,asset_type,manufacturer,model,serial_number,assigned_to,location,status,warranty_end,support_contact
+AST-001,Laptop,Dell,Latitude 5440,SYN-0001,Employee A,Athens office,Active,2027-06-30,Vendor A
+AST-002,Monitor,HP,E24 G5,SYN-0002,Employee B,Athens office,Active,2028-01-15,Vendor B
+AST-003,Printer,Canon,imageRUNNER,SYN-0003,Shared,Athens office,Under repair,,Vendor C
